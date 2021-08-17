@@ -10,6 +10,14 @@ Specific Todos:
 
 1. [ ] fix all the existing pages
 
+1. [ ] add images
+
+1. [ ] add icon
+
+1. [ ] keep bjj page for bjj and rename this page into movement
+
+1. [ ] transfer domain name
+
 1. [ ] Remove the old posts 
 
 1. [ ] Customize CSS to look as I want it to
