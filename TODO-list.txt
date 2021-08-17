@@ -2,36 +2,33 @@ General Todos:
 
 1. write posts and blog about new tech every day
 
-1. 
-
-
 Specific Todos:
 
 1. [x] fix navbar  
 
-1. [ ] fix all the existing pages
+1. [x] fix all the existing pages
 
-1. [ ] add images
+1. [x] add images
 
 1. [ ] add icon
 
-1. [ ] keep bjj page for bjj and rename this page into movement
+1. [x] keep bjj page for bjj and rename this page into movement
 
 1. [ ] transfer domain name
 
-1. [ ] Remove the old posts 
+1. [x] Remove the old posts 
 
 1. [ ] Customize CSS to look as I want it to
 
 1. [ ] Add posts to different pages with pictures
 
-1. [ ] Add some pictures to different pages 
+1. [x] Add some pictures to different pages 
 
 1. [ ] Write a specific page for all the posts to appear on beside home
 
 1. [ ] Create a template based on bootstrap 
 
-1. [ ] Template include:
+1. [ ] Template includes:
 
     [ ] Home 
     [ ] about

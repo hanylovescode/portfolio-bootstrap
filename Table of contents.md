@@ -1,4 +1,5 @@
-Table of contents:
+# Table of contents:
+# General approach to building sites
 
 # Pages:
 1. [ ] Home 
