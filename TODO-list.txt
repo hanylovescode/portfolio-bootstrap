@@ -4,6 +4,7 @@ General Todos:
 
 1. 
 
+
 Specific Todos:
 
 1. [x] fix navbar  
