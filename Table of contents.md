@@ -28,3 +28,9 @@
 1. [ ] Set up everything and clean up repo
 
 1. 
+
+# General Guidelines:
+
+1. [ ] when working with github pages, remove docs from links in images
+
+1. 
