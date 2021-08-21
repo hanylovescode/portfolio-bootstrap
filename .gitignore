@@ -4,3 +4,5 @@ drafts/
 Table of contents.md
 package-lock.json
 package.json
+src/
+scripts/
