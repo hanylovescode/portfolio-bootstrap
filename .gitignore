@@ -2,3 +2,5 @@ node_modules
 .DS_Store
 drafts/
 Table of contents.md
+package-lock.json
+package.json

@@ -14,6 +14,12 @@ Specific Todos:
 
 1. [ ] add icon
 
+1. [x] add google analytics
+
+1. [ ] check out for SEO; add tags to posts
+
+1. [] fix contact form
+
 1. [x] fix logos at the end of the page
 
 1. [x] keep bjj page for bjj and rename this page into movement
