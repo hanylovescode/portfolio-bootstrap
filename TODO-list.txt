@@ -14,6 +14,10 @@ Specific Todos:
 
 1. [ ] add icon
 
+1. [ ] added email to the contact page
+
+1. [ ] still need to add other addresses
+
 1. [x] add google analytics
 
 1. [ ] check out for SEO; add tags to posts
