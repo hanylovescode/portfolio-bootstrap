@@ -14,7 +14,7 @@ Specific Todos:
 
 1. [ ] add icon
 
-1. [ ] added email to the contact page
+1. [x] added email to the contact page
 
 1. [ ] still need to add other addresses
 
